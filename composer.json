@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Gloudemans\\Shoppingcart\\": "src/"
+            "Xtodx\\Shoppingcart\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Gloudemans\\Tests\\Shoppingcart\\": "tests/"
+            "Xtodx\\Tests\\Shoppingcart\\": "tests/"
         }
     },
     "suggest": {
